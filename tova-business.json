@@ -1,0 +1,42 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T07:46:18.744Z",
+  "slug": "laserclinicsnewzealand",
+  "name": "Laser Clinics Northlands Papanui",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Beauty salons & nails",
+    "niche": "beauty salons & nails",
+    "group": "Beauty & wellness"
+  },
+  "contact": {
+    "phone": "+6436694954",
+    "email": "onlinesupport@laserclinicsnewzealand.co.nz",
+    "address": "Northlands Shopping Centre Shop 38/55 Main N Rd, Christchurch"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/311053466281681"
+  },
+  "about": {},
+  "before": {
+    "url": "https://www.laserclinicsnewzealand.co.nz/",
+    "domain": "laserclinicsnewzealand.co.nz",
+    "score": 70,
+    "assessedAt": "2026-11-11T08:04:37.925Z",
+    "issues": [
+      {
+        "id": "unreachable",
+        "title": "Website did not load",
+        "evidence": "Request to https://www.laserclinicsnewzealand.co.nz/ failed (HTTP 429)."
+      }
+    ]
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/laser-clinics-northlands-papanui/",
+    "repoUrl": "https://github.com/tova-studio/laser-clinics-northlands-papanui",
+    "accent": "#0070f3",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T07:46:18.744Z"
+  }
+}
